@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SuperImages'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SuperImages.'
+  s.summary          = 'A convenience CocoaPod that extends the UIImageView Swift class.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
 
   s.description      = <<-DESC
 TODO: Add long description of the pod here.
+HFSuperImages is a CocoaPod that extends the UIImageView class with a convenience method for rounding a UIImageView with a specified border width and border color. Enjoy!
                        DESC
 
   s.homepage         = 'https://github.com/hferrone/SuperImages'
@@ -37,6 +38,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
