@@ -1,0 +1,16 @@
+PODS:
+  - SuperImages (0.1.0)
+
+DEPENDENCIES:
+  - SuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  SuperImages:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SuperImages: 056b7c8402f893576f8260a0a618940f71d38d80
+
+PODFILE CHECKSUM: c7ed1adca8c74f8e5c1b7a41407eef669858774c
+
+COCOAPODS: 1.2.1

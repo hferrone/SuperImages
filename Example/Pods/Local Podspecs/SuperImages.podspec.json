@@ -1,0 +1,22 @@
+{
+  "name": "SuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of SuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hferrone/SuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hferrone": "hferrone@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/hferrone/SuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SuperImages/Classes/**/*"
+}
